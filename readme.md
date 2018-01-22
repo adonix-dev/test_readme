@@ -19,5 +19,5 @@ Nom du fichier executable
 > TARGET = tp1exo1
 
 ### Prefixe de la chaine de compilation
-**au lieu de "arm-eabi"**
+au lieu de "arm-eabi"
 > TCHAIN = arm-none-eabi
